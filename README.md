@@ -432,7 +432,7 @@ And they can directly ask questions about the meeting using a grounded RAG-based
 
 ## 👨‍💻 Author
 
-**Veer Tiwari**
+**Mohit Raj Dubey**
 
 AI/ML & Generative AI Enthusiast
 
