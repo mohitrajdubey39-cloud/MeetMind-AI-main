@@ -1,0 +1,7 @@
+.env
+/core/__pycache__
+/downloads
+/vector_db
+/venv
+*.bin
+/venv
